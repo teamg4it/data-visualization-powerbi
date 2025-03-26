@@ -1,0 +1,39 @@
+{
+    "name": "G4IT Theme",
+    "dataColors": [
+        "#355C7A",
+        "#00BAFF",
+        "#7AAACF",
+        "#08E4EA",
+        "#9FB4D4",
+        "#0CB9BF",
+        "#00A0C4",
+        "#375560",
+        "#00BA00",
+        "#FFBD00"
+    ],
+    "good": "#1AAB40",
+    "neutral": "#D9B300",
+    "bad": "#D64554",
+    "maximum": "#118DFF",
+    "center": "#D9B300",
+    "minimum": "#DEEFFF",
+    "null": "#FF7F48",
+    "textClasses": {
+        "title": {
+            "fontSize": 10,
+            "fontFace": "https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap",
+            "color": "#252423"
+        },
+        "header": {
+            "fontSize": 10,
+            "fontFace": "https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap",
+            "color": "#808080"
+        },
+        "label": {
+            "fontSize": 10,
+            "fontFace": "https://fonts.googleapis.com/css2?family=Overpass:wght@200&display=swap",
+            "color": "#FF5733"
+        }
+    }
+}

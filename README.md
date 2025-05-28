@@ -1,32 +1,29 @@
 # Green IT Power Bi
-
+Explore the impact of my inventories with Power BI to improve my analysis and find actions to reduce my impact.
 A Power Bi application using Power Bi desktop, CSV files and a custom theme. 
 
-## Requirement
-
-You need to install Power Bi Desktop [Here](https://powerbi.microsoft.com/fr-fr/downloads/) 
-
+## Prerequisites
+- You need to install Power Bi Desktop [Here](https://powerbi.microsoft.com/fr-fr/downloads/) 
+- Download the theme and csv files in the project
+- Store them on the folder C:\data-powerbi of your computer
 
 ## Getting started
 
-1. Download the theme and csv files in the project
+### Step 1 - Launch G4IT Power bi
+- Open the G4IT_PowerBi.pbix in Power Bi Desktop 
+⚠ Important: If an error occur while trying to initialize the project, you have to change the path of the csv files.
+ 
+### Step 2 - Export yours inventories
+- On G4IT, in the Information System module, go on the equipment view or the application view of your inventory
+- Click on Export button (G4IT prepare the export)
+- Click on Download button
+- Unzip and save the files in the folder C:\data-powerbi instead of the example files and keep the “tonotdelete” folder
 
-2. Create the "C:\data-powerbi" folder and save the csv files there. 
+### Step 3 - Update Power bi
+- On Power Bi, click on the Refresh button
+- Your inventory is now displayed on the Inventory slicer
 
-3. Open the G4IT_PowerBi_V1.6.pbix in Power Bi Desktop
+### Step 4 - Explore and Analyze !!
 
-If an error occur while trying to initialize the project, you have to change the path of the csv files. 
-
-4. Close the error window
-
-5. On "Home" tab, click on "Transform data", then click on "Edit parameters"
-
-6. Change the source parameter according to the csv files path
-
-7. Implement the custom theme:
-
-    - In the View tab, next to the suggested design, click on the arrow.
-
-    - Then click on "Browse for themes" and select "G4IT_theme" file. 
-
-Your Power Bi report is now ready.
+* Note : to implement the custom theme: In the View tab, next to the suggested design, click on the arrow. 
+Then click on “Browse for themes” and select “G4IT_theme” file.*

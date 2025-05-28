@@ -1,0 +1,2 @@
+nomEquipementPhysique;nomEntite;nomSourceDonnee;modele;quantite;type;statut;paysDUtilisation;utilisateur;dateAchat;dateRetrait;nbCoeur;nomCourtDatacenter;consoElecAnnuelle;fabricant;tailleDuDisque;tailleMemoire;typeDeProcesseur
+physical-eq-1;E1;ACME SERVICES;HP;1;Laptop;In use;France;1;10/10/2020;11/10/2020;;defaultFrance;;;;;

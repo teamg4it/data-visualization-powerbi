@@ -11,7 +11,7 @@ A Power Bi application using Power Bi desktop, CSV files and a custom theme.
 
 ### Step 1 - Launch G4IT Power bi
 - Open the G4IT_PowerBi.pbix in Power Bi Desktop 
-⚠ Important: If an error occur while trying to initialize the project, you have to change the path of the csv files.
+- ⚠ Important: If an error occur while trying to initialize the project, you have to change the path of the csv files.
  
 ### Step 2 - Export yours inventories
 - On G4IT, in the Information System module, go on the equipment view or the application view of your inventory

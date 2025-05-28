@@ -24,7 +24,7 @@ A Power Bi application using Power Bi desktop, CSV files and a custom theme.
 - On Power Bi, click on the Refresh button
 - Your inventory is now displayed on the Inventory slicer
 ![Inventory slider](images/inventory_slider.png)
-- 
+ 
 ### Step 4 - Explore and Analyze !!
 
 * Note : to implement the custom theme: In the View tab, next to the suggested design, click on the arrow. 
